@@ -1,0 +1,34 @@
+🍔 Paleta de Cores para Hamburgueria (Estilo Artesanal/Moderna)
+🎨 Cores Principais
+Marrom Escuro (#4E342E)
+🍞 Representa pão, madeira, rusticidade
+→ Uso: Background principal, navbar, rodapé.
+
+Amarelo Mostarda (#F4A300)
+🧀 Cor do queijo derretido, dá destaque e fome
+→ Uso: Botões de CTA ("Pedir agora"), destaques, ícones.
+
+Vermelho Queimado (#C62828)
+🍅 Remete ao ketchup, carne grelhada, urgência
+→ Uso: Preço, promoções, hover de botões.
+
+Bege Claro (#FFF3E0)
+🍟 Contraste suave, lembra pão/branco quente
+→ Uso: Background secundário, seções claras, áreas com texto.
+
+Preto Fosco (#212121)
+🍖 Elegância + contraste moderno
+→ Uso: Títulos, textos fortes, detalhes finos.
+
+🖌️ Onde Usar Cada Cor
+
+| Elemento               | Cor sugerida          | Observações                                 |
+| ---------------------- | --------------------- | ------------------------------------------- |
+| **Navbar/rodapé**      | Marrom Escuro         | Pode usar texto em bege ou amarelo mostarda |
+| **Fundo principal**    | Bege Claro            | Textos em marrom/preto                      |
+| **Botões (CTAs)**      | Amarelo Mostarda      | Com hover em vermelho queimado              |
+| **Títulos principais** | Preto ou Marrom       | Dá destaque sem pesar                       |
+| **Textos comuns**      | Preto Fosco           | Excelente legibilidade                      |
+| **Cards de produtos**  | Fundo bege + detalhes | Ícones em amarelo ou vermelho               |
+| **Preços e promoções** | Vermelho Queimado     | Chama atenção onde importa                  |
+| **Ícones e detalhes**  | Amarelo ou vermelho   | Para dar vida ao layout                     |

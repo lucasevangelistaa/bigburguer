@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap'); /*Essa*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap'); /*Essa*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Fredoka', Arial, cursive;
+}
+/* body {
+    font-family: 'Bebas Neue', 'Segoe UI', Arial, cursive;
+} */
+
+.personalizado {
+    text-shadow: 2px 2px 4px #212121;
+    color: #C62828;
+}
+
+/* App.css */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #FFD700 !important;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 30px !important;
+  font-weight: bold !important;
+}
+
+
+
