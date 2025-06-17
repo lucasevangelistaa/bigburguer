@@ -12,8 +12,8 @@ const Menu = () => {
   const { addToCart } = useCart();
   return (
     <section
-      className="relative bg-fixed bg-center bg-cover bg-no-repeat py-20 px-6 md:px-20"
-      style={{ backgroundImage: `url(${imgBackgroundMenu})` }}
+      className="bg-center bg-cover bg-no-repeat py-20 px-6 md:px-20"
+      style={{ backgroundImage: `url(${imgBackgroundMenu})`}}
     >
       <div className="bg-black bg-opacity-50 p-8 rounded-2xl shadow-md backdrop-blur-sm">
         <h1 className="text-4xl md:text-5xl mb-6 text-center">
